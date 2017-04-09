@@ -1,5 +1,4 @@
 # Intranet Multichat using Java
-|LICENSE|
 This is a ready to be used Intranet (local) Multichat application build with Java language.
 This application have a minimalist GUI but having a full functionality for local chatting services.
 
