@@ -7,12 +7,12 @@ This application have a minimalist GUI but having a full functionality for local
   - Monitor all message's pakcet (sender, reciever, message content)
   - Real-time list of user online for easier management
   - Force kick a user by type ```kill [username]```
-![Server screenshoot](/image/06_server_monitoring.PNG?raw=true)
+![Server screenshoot](/screenshot/06_server_monitoring.PNG?raw=true)
 
 ### Client side:
   - Send any message typed in message box, and it will be broadcasted to all user within the same group
   - Send private message typed in message box with a format ```@[username] [messages]```, and only both sender and receiver will be able to see the message
-![Server screenshoot](/image/05_client_otherUserJoined.PNG?raw=true)
+![Server screenshoot](/screenshot/05_client_otherUserJoined.PNG?raw=true)
 
 ## Getting Started
 Make sure you already have [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-142931.html) installed.
