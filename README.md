@@ -1,6 +1,5 @@
 # Intranet Multichat using Java
-This is a ready to be used Intranet (local) Multichat application build with Java language.
-This application have a minimalist GUI but having a full functionality for local chatting services.
+This is a ready to be used Intranet Multichat application build with Java language, a minimalist but well functioned chatting application that runs on local network. A server side with full control towards all services and a client side that able to send broadcast messages, private messages, and change chat group.
 
 ## Features
 ### Server side:
