@@ -20,13 +20,13 @@ Make sure you already have [JDK 8](http://www.oracle.com/technetwork/java/javase
 - To modify: Import the source code to your prefered IDE, compile/build it, and run the JAR executable
 
 ## Starting
-1. Starting server
+- Starting server
   1. Execute MultiChatGUIServer.jar
   2. Decide the port number to be used and fill it in port label (default port will be 1234)
   3. Click _Hidupkan_ to turn on the server
   4. All client's operation will be monitored and printed in server's log message label
   5. For terminating the service, click _Matikan_
-2. Starting client
+- Starting client
   1. Execute MultiChatGUIClient.jar
   2. Decide the host and fill it in _Host_ label, also the port (default is 1234)
   3. Input your preferable username. If no username is typed, the system will automatically generate random guest user
