@@ -41,10 +41,8 @@ Make sure you already have [JDK 8](http://www.oracle.com/technetwork/java/javase
 ## Authors
 * **Rahmat Nazali S** - [LinkedIn](https://www.linkedin.com/in/rahmat-nazali-salimi-43391a13b/) - [HackerRank](https://www.hackerrank.com/rahmatNazali)
 
-See also the list of [contributors](https://github.com/intranet-multichat/contributors) who participated in this project.
-
 ## License
-This project is licensed under the GPL License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL License - see the [LICENSE.md](/LICENSE.md) file for details
 
 ## Important note
 This is an implementation of a very simple but well functioned chatting application utilizing local network, and so the message was not encrypted at all. This means that implementation for professional use should be avoided, since the messages may be easily sniffed.
