@@ -45,4 +45,4 @@ Make sure you already have [JDK 8](http://www.oracle.com/technetwork/java/javase
 This project is licensed under the GPL License - see the [LICENSE.md](/LICENSE) file for details
 
 ## Important note
-This is an implementation of a very simple but well functioned chatting application utilizing local network, and so the message was not encrypted at all. This means that implementation for professional use should be avoided, since the messages may be easily sniffed.
+This is an implementation of a very simple but well functioned chatting application utilize local network, and so the message was not encrypted at all. This means that implementation for professional use should be avoided, since the messages may be easily sniffed.
